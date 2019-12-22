@@ -1,16 +1,16 @@
-# frames
+# FRAMES
 ciao mondo!
 
-here you can find Frames,
+here you can find FRAMES,
 
 a cool tool for graphical spectral processing for M4L
 
-made with love by Alberto Barberis (www.albertobarberis.it) 
+developed by Alberto Barberis (www.albertobarberis.it) 
 and Alberto Ricca (www.bienoise.com)
 
 [ based on the amazing work by Jean-François Charles ]
 
-SEE HOW IT WORKS : https://www.youtube.com/watch?v=5QWkVoQO4GU&feature=youtu.be&fbclid=IwAR3nwFZe6QgyAjXrzub-UoYAX3WPoJkDv_9svVUcj-Z65uQ7hT2x0BK-EmY
+SEE HOW IT WORKS : 
 
 if you find some bugs report to 
 albertobarberis11@gmail.com
