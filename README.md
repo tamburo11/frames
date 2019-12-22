@@ -3,6 +3,8 @@ ciao mondo!
 
 here you can find FRAMES,
 
+![alt text](https://github.com/tamburo11/frames/blob/master/pic1.png)
+
 a cool tool for graphical spectral processing for M4L
 
 developed by Alberto Barberis (www.albertobarberis.it) 
